@@ -1,0 +1,5 @@
+interface:
+  display_name: "CH584 单色屏 UI 修改"
+  short_description: "跨项目调整 CH584 单色屏排版、字模和焦点，并验证实际绘图"
+policy:
+  allow_implicit_invocation: true

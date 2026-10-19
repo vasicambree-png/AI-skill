@@ -1,0 +1,4 @@
+interface:
+  display_name: "嵌入式AI自动审查修改"
+  short_description: "用可核对的日志与诊断建立离线准备、代码修改及实物复测闭环"
+  default_prompt: "使用 $embedded-link-debug，按当前工程和硬件授权完成嵌入式AI自动审查修改及验证。"
